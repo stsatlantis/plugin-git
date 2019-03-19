@@ -76,7 +76,7 @@ abbr -a gwch       git whatchanged -p --abbrev-commit --pretty=medium
 # git checkout abbreviations
 abbr -a gco        git checkout
 abbr -a gcb        git checkout -b
-abbr -a gcod       git checkout develop
+abbr -a gcod       git checkout development
 abbr -a gcom       git checkout master
 
 # git flow abbreviations
