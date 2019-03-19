@@ -1,3 +1,8 @@
+# This is just a fork of https://github.com/jhillyerd/plugin-git
+Only change is the `develop` -> `development` rename
+
+
+
 <img src="https://cdn.rawgit.com/oh-my-fish/oh-my-fish/e4f1c2e0219a17e2c748b824004c8d0b38055c16/docs/logo.svg" align="left" width="144px" height="144px"/>
 
 #### git
@@ -13,7 +18,7 @@
 ## Install
 
 ```fish
-$ omf install https://github.com/jhillyerd/plugin-git
+$ omf install https://github.com/stsatlantis/plugin-git
 ```
 
 
